@@ -1,0 +1,15 @@
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/Users/aleksandrashalunova/Desktop/homework3/task3/bin/Debug/net6.0/task3
+/Users/aleksandrashalunova/Desktop/homework3/task3/bin/Debug/net6.0/task3.deps.json
+/Users/aleksandrashalunova/Desktop/homework3/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/Users/aleksandrashalunova/Desktop/homework3/task3/bin/Debug/net6.0/task3.dll
+/Users/aleksandrashalunova/Desktop/homework3/task3/bin/Debug/net6.0/task3.pdb
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.dll
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/refint/task3.dll
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.pdb
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+/Users/aleksandrashalunova/Desktop/homework3/task3/obj/Debug/net6.0/ref/task3.dll
